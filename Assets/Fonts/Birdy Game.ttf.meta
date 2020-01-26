@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d18f5c5a1e49d7f469b0c341acefdcda
+timeCreated: 1516736233
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Birdy Game
+  fontNames:
+  - Birdy Game
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
